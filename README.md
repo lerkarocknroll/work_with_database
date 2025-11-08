@@ -54,6 +54,7 @@ pip install -r requirements.txt
 - Команда для создания миграций приложения для базы данных
 
 ```bash
+python -m pip install Pillow
 python manage.py migrate
 ```
 
